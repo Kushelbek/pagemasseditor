@@ -35,7 +35,7 @@
 				<td><a href="{PAGEEDIT_FORM_OPEN_HREF}" class="button special positive">{PAGEEDIT_FORM_ID}</a></td>
 				<td>{PHP.L.Title}</td>
 				<td>
-				<div class="cats">{PAGEEDIT_FORM_TITLE}
+				<div class="cats">{PAGEEDIT_FORM_IDHIDDEN}{PAGEEDIT_FORM_TITLE}
 				<a href="{PAGEEDIT_FORM_DELETE_HREF}" class="negative button">{PHP.L.Delete}</a>
 				<a href="{PAGEEDIT_FORM_EDIT_HREF}" class="button">{PHP.L.Edit}</a>
 				{PAGEEDIT_FORM_EDITSTATE}{PAGEEDIT_FORM_DELETE}
